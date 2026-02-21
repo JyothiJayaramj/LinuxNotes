@@ -2,6 +2,18 @@
 
 ### Explanation of System Directories
 
+<img width="803" height="357" alt="image" src="https://github.com/user-attachments/assets/379ef504-6cfe-49aa-a5a3-b619d3a10377" />
+
+
+### User@HostName:FileSystemPath  ###
+
+For ex: root@UbuntuDev:/# -> Its a root file path example 
+For Ex 2: ubuntu@ubuntuDev:~$ -> Its a user file path example  
+
+File System of the root / -> /root/
+File system of the user ~ -> /home/username
+
+
 ### **Symbolic Links (Less Significant)**
 | Directory | Description |
 |-----------|-------------|
